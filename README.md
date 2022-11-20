@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+### DISCOIN 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+etherscan link :- https://goerli.etherscan.io/address/0xfD7CD9Bc4fBd489E294E6611072721Eaa11E3FAa
